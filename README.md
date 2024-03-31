@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nay3on&layout=compact)](https://github.com/nay3on/github-readme-stats)
+
+
 <!--
 **nay3on/nay3on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
