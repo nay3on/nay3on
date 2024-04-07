@@ -7,7 +7,7 @@
 
 <hr>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nay3on&layout=compact&card_width=510&theme=transparent&text_color=FFFFFF&langs_count=10&hide_title=true&hide_border=true)](https://github.com/nay3on/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nay3on&layout=compact&card_width=510&theme=transparent&text_color=65717d&langs_count=10&hide_title=true&hide_border=true)](https://github.com/nay3on/github-readme-stats)
 
 
 <!--
