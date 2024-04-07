@@ -1,8 +1,7 @@
-### Hi, I'm Nayeon
 
 <div style="width: 100%;">
   <a href="https://github.com/nay3on">
-    <img src="README.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="https://github.com/nay3on/nay3on/blob/main/README_Header-Banner--optimized.svg" style="width: 100%;" alt="Profile Header">
   </a>
 </div>
 
