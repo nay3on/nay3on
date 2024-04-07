@@ -5,7 +5,10 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nay3on&layout=compact)](https://github.com/nay3on/github-readme-stats)
+<hr>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nay3on&layout=compact&card_width=510&theme=transparent&text_color=FFFFFF&langs_count=10&hide_title=true&hide_border=true)](https://github.com/nay3on/github-readme-stats)
+
 
 <!--
 **nay3on/nay3on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
